@@ -1,6 +1,6 @@
 # datagir
 
-![](https://datagir.ademe.fr/logo.jpg)
+![](https://datagir.ademe.fr/logo-w200px.jpg)
 
 Le code de la startup [Datagir](https://datagir.ademe.fr), anciennement hébergé ici sur github.com/betagouv, est maintenant sur une organisation à part entière :  [github.com/datagir](https://github.com/datagir).
 
